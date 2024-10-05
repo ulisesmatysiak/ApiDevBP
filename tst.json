@@ -1,0 +1,18 @@
+{
+  // crear nuevo usuario POST/users
+  {
+    "name": "ulises",
+    "lastname": "matysiak"
+  },
+
+  // obtener usuarios GET/users
+
+  // actualizar usuario PUT/users/{id}
+
+  {
+    "name": "roman",
+    "lastname": "maty"
+  }
+
+  // borrar usuario DELETE/users/{id}
+}
